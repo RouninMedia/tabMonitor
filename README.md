@@ -1,5 +1,5 @@
 # tabMonitor
-tabMonitor uses `localStorage` to keep track of how many browser tabs are open for any given website.
+**tabMonitor** uses `localStorage` to keep track of how many browser tabs are open for any given website.
 
 **tabMonitor** listens for page `load` and `unload` events:
 
